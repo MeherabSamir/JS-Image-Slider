@@ -76,7 +76,7 @@ p a:hover{
 /* Responsive Queries */
 @media screen and (max-width: 600px) {
   .heading h1 {
-    font-size: 30px;
+    font-size: 35px;
   }
   .img-container {
     width: 340px;
