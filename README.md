@@ -1,5 +1,5 @@
-# Random Cat Photo Generator
-Random Cat Photo Generator By [Meherab Samir][Github Link]
+# Javascript Slider
+Javascript Slider By [Meherab Samir][Github Link]
 
 Tecnologies Used
 - HTML
@@ -22,6 +22,7 @@ Contact me - [meherabsamir.me@gmail.com](mailto:meherabsamir.me@gmail.com)
 [![Twitter][Twitter-shield]][Twitter]
 [![Facebook][Facebook-sheild]][Facebook]
 [![Instragram][Instagram-sheild]][Instagram]
+
 
 <!-- Links -->
 [Github Link]: https://github.com/MeherabSamir
